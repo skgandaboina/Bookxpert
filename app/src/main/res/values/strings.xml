@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bookxpert</string>
+    <string name="no_devices_found">No Devices Found</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="notification">Notification</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign out</string>
+    <string name="user_info_will_appear_here">User info will appear here</string>
+
+    <string name="default_web_client_id">362113235919-ts16f2qrsead6cvd01pmlho8deiiqm8u.apps.googleusercontent.com</string>
+    <string name="_4_room_db_amp_n5_push_notification"><![CDATA[4. Room DB &\n5. Push Notification]]></string>
+    <string name="_3_image_capture_amp_gallery_selection"><![CDATA[3. Image Capture & Gallery Selection]]></string>
+    <string name="_2_pdf_viewer">2. PDF Viewer</string>
+    <string name="_1_user_authentication">1. User Authentication</string>
+</resources>

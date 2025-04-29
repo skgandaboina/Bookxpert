@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362113235919",
+    "project_id": "bookxpert-8cc9e",
+    "storage_bucket": "bookxpert-8cc9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362113235919:android:adbc56649a617e025370ba",
+        "android_client_info": {
+          "package_name": "com.bookxpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362113235919-ts16f2qrsead6cvd01pmlho8deiiqm8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATC3mBOeu4P-cHaBTl1C0z0psr3bJAkcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362113235919-cuf0udnaht231q8d04erecf5eosthj8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
